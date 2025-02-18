@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug related to styling dynamically added HTML content.  The bug involves inconsistent application of styles when using innerHTML to add new elements to the DOM. The solution provides a more robust approach to avoid this issue.  See the bug.html file for the buggy code and bugSolution.html for a fix.
